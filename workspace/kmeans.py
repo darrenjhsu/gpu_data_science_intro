@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import numpy as np
+#import cupy as np
 
 def euclidean_distance(point1, point2):
     '''
